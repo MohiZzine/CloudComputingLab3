@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/c9a9983e173245e3b243cd83bb858eb7/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c9a9983e173245e3b243cd83bb858eb7
+run_name: placid-fish-4
+run_uuid: c9a9983e173245e3b243cd83bb858eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

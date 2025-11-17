@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/496156e006424695a7ecad9df10c3673/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 496156e006424695a7ecad9df10c3673
+run_name: sneaky-cat-561
+run_uuid: 496156e006424695a7ecad9df10c3673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

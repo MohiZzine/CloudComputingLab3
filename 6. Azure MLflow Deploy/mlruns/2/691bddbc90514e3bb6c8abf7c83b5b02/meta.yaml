@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/691bddbc90514e3bb6c8abf7c83b5b02/artifacts
+end_time: 1763405961805
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 691bddbc90514e3bb6c8abf7c83b5b02
+run_name: resilient-asp-637
+run_uuid: 691bddbc90514e3bb6c8abf7c83b5b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405956451
+status: 3
+tags: []
+user_id: farid

@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/0039addea8fe491c976be77bffbbafaf/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0039addea8fe491c976be77bffbbafaf
+run_name: tasteful-wren-784
+run_uuid: 0039addea8fe491c976be77bffbbafaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/165b26e2594b40a38ea37532e1279d97/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 165b26e2594b40a38ea37532e1279d97
+run_name: incongruous-ant-337
+run_uuid: 165b26e2594b40a38ea37532e1279d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

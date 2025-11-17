@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/d67185033b0c446da6cd86beb6beb40f/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d67185033b0c446da6cd86beb6beb40f
+run_name: monumental-bear-564
+run_uuid: d67185033b0c446da6cd86beb6beb40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

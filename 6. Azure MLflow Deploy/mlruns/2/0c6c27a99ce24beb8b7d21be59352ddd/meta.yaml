@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/0c6c27a99ce24beb8b7d21be59352ddd/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0c6c27a99ce24beb8b7d21be59352ddd
+run_name: thundering-bass-630
+run_uuid: 0c6c27a99ce24beb8b7d21be59352ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

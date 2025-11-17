@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/5695e87c638d4dba98a983b6367bff22/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5695e87c638d4dba98a983b6367bff22
+run_name: monumental-sheep-498
+run_uuid: 5695e87c638d4dba98a983b6367bff22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

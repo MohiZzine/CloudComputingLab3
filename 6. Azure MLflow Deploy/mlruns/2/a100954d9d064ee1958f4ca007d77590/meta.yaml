@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/a100954d9d064ee1958f4ca007d77590/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a100954d9d064ee1958f4ca007d77590
+run_name: trusting-duck-372
+run_uuid: a100954d9d064ee1958f4ca007d77590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

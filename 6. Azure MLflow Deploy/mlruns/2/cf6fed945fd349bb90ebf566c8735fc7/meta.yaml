@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/cf6fed945fd349bb90ebf566c8735fc7/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cf6fed945fd349bb90ebf566c8735fc7
+run_name: adventurous-worm-119
+run_uuid: cf6fed945fd349bb90ebf566c8735fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/f16d356057b5487fb524becf27d15164/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f16d356057b5487fb524becf27d15164
+run_name: omniscient-roo-732
+run_uuid: f16d356057b5487fb524becf27d15164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

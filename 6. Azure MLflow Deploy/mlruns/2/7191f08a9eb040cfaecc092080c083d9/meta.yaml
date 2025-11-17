@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/7191f08a9eb040cfaecc092080c083d9/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7191f08a9eb040cfaecc092080c083d9
+run_name: loud-horse-843
+run_uuid: 7191f08a9eb040cfaecc092080c083d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

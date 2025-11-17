@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/1679f9e0d29f481c9f32e41d015c2069/artifacts
+end_time: 1763405753853
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1679f9e0d29f481c9f32e41d015c2069
+run_name: serious-panda-458
+run_uuid: 1679f9e0d29f481c9f32e41d015c2069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

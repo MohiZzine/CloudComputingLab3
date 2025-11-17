@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/24206700353b4f69be89bd4813915b16/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 24206700353b4f69be89bd4813915b16
+run_name: rare-shoat-600
+run_uuid: 24206700353b4f69be89bd4813915b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/ed41866856fa4b23975d5791a0f26644/artifacts
+end_time: 1763405753187
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ed41866856fa4b23975d5791a0f26644
+run_name: bustling-cat-277
+run_uuid: ed41866856fa4b23975d5791a0f26644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405730469
+status: 3
+tags: []
+user_id: farid

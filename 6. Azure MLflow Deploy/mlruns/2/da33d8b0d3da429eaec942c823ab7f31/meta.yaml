@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/da33d8b0d3da429eaec942c823ab7f31/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: da33d8b0d3da429eaec942c823ab7f31
+run_name: loud-cat-666
+run_uuid: da33d8b0d3da429eaec942c823ab7f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

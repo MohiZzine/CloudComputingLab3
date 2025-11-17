@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/8fd4b553efca4769a8f57459f096bb4c/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8fd4b553efca4769a8f57459f096bb4c
+run_name: dazzling-auk-336
+run_uuid: 8fd4b553efca4769a8f57459f096bb4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid

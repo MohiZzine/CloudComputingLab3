@@ -1,0 +1,15 @@
+artifact_uri: file:./mlruns/2/fe75c6f0c9924097bf6f58017ab42cb2/artifacts
+end_time: 1763405989066
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fe75c6f0c9924097bf6f58017ab42cb2
+run_name: thundering-shrew-309
+run_uuid: fe75c6f0c9924097bf6f58017ab42cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405975605
+status: 3
+tags: []
+user_id: farid
